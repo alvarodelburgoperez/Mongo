@@ -1,0 +1,15 @@
+/
+/index.html
+/login
+/logout
+/signup
+/status
+/api
+/api/v1
+/api/v1/status
+/api/v1/login
+/api/v1/logout
+/test
+/test/api
+/docs
+/docs/api
